@@ -67,3 +67,7 @@
     flex: 1;
   }
 }
+
+h6 {
+  font-size: 0.5em;
+}
